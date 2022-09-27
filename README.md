@@ -37,8 +37,8 @@
 
 
 ## Imagem ilustrativa das rotas do projeto.
-##### • A requisição chega do navegador, passando pelos filtros.
-##### • O Controller decide a partir dos parametros passados na requisição, qual ação será efetuada.
-##### • A Ação modifica o Modelo, do banco por exemplo.
-##### • A resposta volta para Ação que devolve para o Controller a responsabilidade de nos redirecionar para uma pagina HTML (nesse caso JSP)
+ • A requisição chega do navegador, passando pelos filtros.<br>
+ • O Controller decide a partir dos parametros passados na requisição, qual ação será efetuada.<br>
+ • A Ação modifica o Modelo, do banco por exemplo.<br>
+ • A resposta volta para Ação que devolve para o Controller a responsabilidade de nos redirecionar para uma pagina HTML (nesse caso JSP)<br><br>
 ![img](https://github.com/vitucomment/Java-Servlets-CRUD/blob/master/img/rotaspng.png)
